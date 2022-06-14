@@ -56,7 +56,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Acknowledgements
 
-- Don't forget to add .env file (secret key and debug)
+- Don't forget to add .env file (secret key,debug and for postgresql's info )
 
 ## Contact
 
